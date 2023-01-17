@@ -1,6 +1,6 @@
 Hey there! 🖐️
 
-I'm a TypeScript and golang developer who loves building awesome web apps (that actually work).
+I'm a TypeScript and rust developer who loves building awesome web apps (that actually work).
 
 In my free time, I enjoy:
 - Hanging out with my fiancee and my dog 💕
